@@ -1,0 +1,3 @@
+# AirBnB_clone_v2
+
+Another version of the AirBnb Clone project where we integrated into the console a DBStorage API...
