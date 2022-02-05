@@ -1,3 +1,3 @@
-# #0x04-AirBnB Clone - Web Framework
+# Web Flask
 
-Here, we practiced on using flask in building the web application. That means we made the content more dynamic by generating data on the fly.
+This is a project that shows how dynamic web pages can be built with the Flask web application module. See [TASKS](TASKS.md) for the requirements of this project.
